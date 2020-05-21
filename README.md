@@ -24,6 +24,9 @@ Tracking End of Support (EOS) dates for Kubernetes as they are difficult to find
 | 1.18    | 25 March 2020            |        |            |            |
 
 [1] - https://en.wikipedia.org/wiki/Kubernetes#Release_Versions
+
 [2] - no source yet
+
 [3] - various AWS documentation pages
+
 [4] - no source yet
