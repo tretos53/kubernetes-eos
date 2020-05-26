@@ -25,8 +25,8 @@ Tracking End of Support (EOS) dates for Kubernetes as they are difficult to find
 
  - [1] - https://en.wikipedia.org/wiki/Kubernetes#Release_Versions
  - [2] - no source yet
-[3] - various AWS documentation pages and email notifications from AWS.
-[4] - no source yet
+ - [3] - various AWS documentation pages and email notifications from AWS.
+ - [4] - no source yet
 
 
 
@@ -38,3 +38,4 @@ Kubernetes
 AWS
  - https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html
  - https://docs.aws.amazon.com/eks/latest/userguide/launch-workers.html
+ - https://docs.aws.amazon.com/eks/latest/userguide/doc-history.html
