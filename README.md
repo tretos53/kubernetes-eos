@@ -36,6 +36,7 @@ Kubernetes
  - https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG
 
 AWS
+ - https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html
  - https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html
  - https://docs.aws.amazon.com/eks/latest/userguide/launch-workers.html
  - https://docs.aws.amazon.com/eks/latest/userguide/doc-history.html
