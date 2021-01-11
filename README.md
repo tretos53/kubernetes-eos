@@ -22,7 +22,7 @@ Tracking End of Support (EOS) dates for Kubernetes as they are difficult to find
 | 1.16    | 22 October 2019          |        | 30/04/2020 |  07/2021   |            |
 | 1.17    | 9 December 2019          |        | 10/07/2020 |  09/2021   |            |
 | 1.18    | 25 March 2020            |        |  10/2020   |  11/2021   |            |
-| 1.19    | 26 August 2020           |        |  12/2020   |  11/2021   |            |
+| 1.19    | 26 August 2020           |        |  12/2020   |  02/2022   |            |
 
  - [1] - https://en.wikipedia.org/wiki/Kubernetes#Release_Versions
  - [2] - no source yet
